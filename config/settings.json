@@ -85,7 +85,7 @@
             }
         },
         "gems": {
-            "enabled": true,
+            "enabled": false,
             "interval": [
                 15,
                 20
